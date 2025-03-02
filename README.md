@@ -26,8 +26,7 @@ Este repositório contém toda a documentação relacionada ao projeto Moveat.
 [User Stories - Login](/feature1-acesso-plataforma/user-stories/login.md)
 
 
->[Test Cases - Cadastro](/feature1-acesso-plataforma/test-cases/cadastro) <br>
-[Test Cases - Login](/feature1-acesso-plataforma/test-cases/login)
+>[Test Cases](/feature1-acesso-plataforma/test-cases)
 
 ### Feature 2: Cadastro da planilha de treino
 Em breve
