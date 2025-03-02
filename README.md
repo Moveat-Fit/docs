@@ -1,6 +1,12 @@
 # Documentação do Projeto Moveat
 Este repositório contém toda a documentação relacionada ao projeto Moveat.
 
+
+## Controle de Versão
+| Versão | Mudança                   | Data       | Responsável |
+|--------|---------------------------|------------|-------------|
+| 1.0.0  | Versão inicial do projeto | 15/02/2025 | Time Moveat |
+
 ## 👥 Time de desenvolvimento
 - Ana Carollyne Guimarães ***(QA)***
 - Luana Ramos de Almeida ***(Dados)***
