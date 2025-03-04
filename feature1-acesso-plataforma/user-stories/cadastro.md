@@ -1,19 +1,7 @@
 # 📌 Feature 1: Acesso à Plataforma
 **Data de entrega:** 09/03/2025
 
-## História de Usuário 1 - Cadastro Aluno/Paciente
-> **Como** um novo usuário <br>
-> **Quero** me cadastrar na plataforma <br>
-> **Para** que eu possa acessar meus dados
-
-### Critérios de Aceitação:
-1. O usuário deve preencher os campos obrigatórios **nome, e-mail, senha, peso e altura** para se cadastrar.
-2. O sistema deve validar se o e-mail é único.
-3. O sistema deve validar se a senha tem no mínimo 8 caracteres .
-
-<br>
-
-## História de Usuário 2 - Cadastro Personal Trainer
+## História de Usuário 1 - Cadastro Personal Trainer
 > **Como** um novo usuário <br>
 > **Quero** me cadastrar na plataforma <br>
 > **Para** que eu possa montar a planilha de treino do meu aluno
@@ -26,7 +14,7 @@
 
 <br>
 
-## História de Usuário 3 - Cadastro Nutricionista
+## História de Usuário 2 - Cadastro Nutricionista
 > **Como** um novo usuário <br>
 > **Quero** me cadastrar na plataforma <br>
 > **Para** que eu possa montar o plano alimentar do meu paciente
