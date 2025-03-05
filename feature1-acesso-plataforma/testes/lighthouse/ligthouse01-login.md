@@ -12,8 +12,7 @@ Avaliar a aplicação utilizando a ferramenta Lighthouse para identificar proble
 ## 3. Resultados
 | Categoria            | Pontuação | Observações                                |
 |----------------------|-----------|--------------------------------------------|
-| Desempenho           | 99%       | Página demora para ser renderizada         |
-|                      |           | Imagem grande carrega lentamente           |
+| Desempenho           | 99%       | Página demora para ser renderizada; Imagem grande carrega lentamente          |
 | Acessibilidade       | 81%       | Contraste, etiquetas/nomes e localização   |
 | Melhores Práticas    | 100%      | -                                          |
 | SEO                  | 82%       | Título e metadescrição                     |
@@ -21,11 +20,10 @@ Avaliar a aplicação utilizando a ferramenta Lighthouse para identificar proble
 
 ---
 
-## 4. Defeitos Encontrados
-| ID do Defeito        | Categoria            | Descrição                                                                                                  | Prioridade | Status |
+## 4. Melhorias Encontradas
+| ID da Melhoria       | Categoria            | Descrição                                                                                                  | Prioridade | Status |
 |----------------------|----------------------|------------------------------------------------------------------------------------------------------------|------------|--------|
-| [LIG-LOGIN-001](https://github.com/orgs/Moveat-Fit/projects/4?pane=issue&itemId=100370603&issue=Moveat-Fit%7Cfrontend%7C8) | Desempenho           | Recurso Google Fonts faz com que a página demore para ser renderizada  | Baixa      | Aberto |
-|                      |                      | Imagem com atributo ``loading="lazy"`` atrasa a renderização da página                                     |            |        |
+| [LIG-LOGIN-001](https://github.com/orgs/Moveat-Fit/projects/4?pane=issue&itemId=100370603&issue=Moveat-Fit%7Cfrontend%7C8) | Desempenho           | Recurso Google Fonts faz com que a página demore para ser renderizada; Imagem com atributo ``loading="lazy"`` atrasa a renderização da página  | Baixa      | Aberto |
 | [LIG-LOGIN-002](https://github.com/orgs/Moveat-Fit/projects/4/views/1?pane=issue&itemId=100374859&issue=Moveat-Fit%7Cfrontend%7C9)   | Desempenho   | JavaScript não utilizado (é carregado e executado, mas não é necessário para renderização naquele momento) | Baixa      | Aberto |
 | [LIG-LOGIN-003](https://github.com/orgs/Moveat-Fit/projects/4/views/1?pane=issue&itemId=100379765&issue=Moveat-Fit%7Cfrontend%7C10)  | Acessibilidade       | Cores com taxa de contraste insuficiente | Alta       | Aberto |
 | [LIG-LOGIN-004](https://github.com/orgs/Moveat-Fit/projects/4/views/1?pane=issue&itemId=100381181&issue=Moveat-Fit%7Cfrontend%7C11) | Acessibilidade e SEO | Documento sem elemento ``<title>``    | Alta       | Aberto |
