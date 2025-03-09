@@ -14,11 +14,6 @@ Este repositório contém toda a documentação relacionada ao projeto Moveat.
 - Pedro Pescarole ***(Back-end e Dados)***
 
 
-## 📂 Repositórios do projeto:
-- [Front-end](https://github.com/Moveat-Fit/frontend)
-- [Back-end](https://github.com/Moveat-Fit/backend)
-
-
 ## 🐞 Documentação dos Testes
 
 ### Objetivo de cada documentação
@@ -37,8 +32,13 @@ Este repositório contém toda a documentação relacionada ao projeto Moveat.
 
 [Relatórios Google Lighthouse](/feature1-acesso-plataforma/testes/lighthouse/) - As **melhorias** identificadas são categorizadas como ``[LIG + nome da página + id]``. Os links no relatório levam diretamente para a Issue correspondente no [Board](https://github.com/orgs/Moveat-Fit/projects/4) do projeto.
 
+[Relatório de Testes]()
+
 ### Feature 2: Cadastro da planilha de treino
 Em breve
 
-### Feature 2: Cadastro da planilha de treino
+### Feature 3: Cadastro do plano alimentar
+Em breve
+
+### Feature 4: Refinamento do sistema
 Em breve
