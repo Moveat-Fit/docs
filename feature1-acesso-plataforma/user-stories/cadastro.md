@@ -7,8 +7,8 @@
 > **Para** que eu possa montar a planilha de treino do meu aluno
 
 ### Critérios de Aceitação:
-1. O personal deve preencher os campos obrigatórios **nome, e-mail, senha e número do CREF (Conselho Regional de Educação Física)** para se cadastrar.
-2. O sistema deve validar se o e-mail é único.
+1. O personal deve preencher os campos obrigatórios **nome, e-mail, senha, telefone, CPF e número do CREF (Conselho Regional de Educação Física)** para se cadastrar.
+2. O sistema deve validar se o e-mail, CPF e telefone são únicos.
 3. O sistema deve validar se a senha tem no mínimo 8 caracteres.
 4. O sistema deve validar se o número de cadastro no CREF é válido.
 
@@ -20,14 +20,23 @@
 > **Para** que eu possa montar o plano alimentar do meu paciente
 
 ### Critérios de Aceitação:
-1. O nutricionista deve preencher os campos obrigatórios **nome, e-mail, senha e número do CRN (Conselho Regional de Nutrição)** para se cadastrar.
-2. O sistema deve validar se o e-mail é único.
+1. O nutricionista deve preencher os campos obrigatórios **nome, e-mail, senha, telefone, CPF e número do CRN (Conselho Regional de Nutrição)** para se cadastrar.
+2. O sistema deve validar se o e-mail, CPF e telefone são únicos.
 3. O sistema deve validar se a senha tem no mínimo 8 caracteres.
 4. O sistema deve validar se o número de cadastro no CRN é válido.
 
 
 <br>
 
+## História de Usuário 3 - Cadastro Paciente/Aluno
+> **Como** um novo usuário <br>
+> **Quero** me cadastrar na plataforma <br>
+> **Para** que eu possa acessar meu plano alimentar e/ou plano de treino
+
+### Critérios de Aceitação:
+1. O usuário deve preencher os campos obrigatórios **nome, e-mail, senha, telefone e CPF** para se cadastrar.
+2. O sistema deve validar se o e-mail, CPF e telefone são únicos.
+3. O sistema deve validar se a senha tem no mínimo 8 caracteres.
 
 ### Cenários de Teste
 ✅ **Cenário 1: Cadastro com dados válidos** 
