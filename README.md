@@ -28,11 +28,14 @@ Este repositório contém toda a documentação relacionada ao projeto Moveat.
 [Histórias de Usuário - Cadastro](/feature1-acesso-plataforma/user-stories/cadastro.md) <br>
 [Histórias de Usuário - Login](/feature1-acesso-plataforma/user-stories/login.md)
 
-[Casos de Teste](/feature1-acesso-plataforma/test-cases) - São categorizados como ``[CT + id do caso de teste]``. Os casos de teste estão tanto no repositório, como também no [Board](https://github.com/orgs/Moveat-Fit/projects/4) do projeto.
+[Casos de Teste](/feature1-acesso-plataforma/test-cases) - São padronizados como ``[CT + id do caso de teste]``. Os casos de teste estão tanto no repositório, como também no [Board](https://github.com/orgs/Moveat-Fit/projects/4) do projeto.
 
-[Relatórios Google Lighthouse](/feature1-acesso-plataforma/testes/lighthouse/) - As **melhorias** identificadas são categorizadas como ``[LIG + nome da página + id]``. Os links no relatório levam diretamente para a Issue correspondente no [Board](https://github.com/orgs/Moveat-Fit/projects/4) do projeto.
+[Relatórios Google Lighthouse](/feature1-acesso-plataforma/testes/lighthouse/) - As **melhorias** identificadas no Lighthouse são padronizadas como ``[LIG + nome da página + id]``. Os links no relatório levam diretamente para a Issue correspondente no [Board](https://github.com/orgs/Moveat-Fit/projects/4) do projeto.
 
-[Relatório de Testes]()
+[Melhorias - Teste Funcional](https://github.com/orgs/Moveat-Fit/projects/4) - As **melhorias** identificadas durante os testes exploratórios são padronizadas como ``[UPGRADE + nome da página + id]``.
+[Bug Report - Teste Funcional](https://github.com/orgs/Moveat-Fit/projects/4) - Os **bugs** identificados durante os testes exploratórios são padronizados como ``[BUG + nome da página + id]``.
+
+[Relatório de Testes - Entrega 1]()
 
 ### Feature 2: Cadastro da planilha de treino
 Em breve
