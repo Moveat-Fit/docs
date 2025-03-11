@@ -21,7 +21,9 @@ Este repositório contém toda a documentação relacionada ao projeto Moveat.
 
 **2. Casos de Teste:** Descrevem como um software deve se comportar em determinadas situações. Essenciais para o planejamento de testes.
 
-**3. Relatórios da ferramenta Google Lighthouse:** Ferramenta de auditoria que analisa o desempenho de uma página web e sugere **melhorias**. Avalia: velocidade de carregamento, acessibilidade, melhores práticas e SEO.
+**3. Relatórios da ferramenta Google Lighthouse:** Ferramenta de auditoria que analisa o desempenho de uma página web e sugere **melhorias**. Avalia: velocidade de carregamento, acessibilidade, melhores práticas e SEO.  
+
+**4. Relatórios de Testes:** Relatório de testes da entrega de uma funcionalidade. Documenta os testes realizados e melhorias futuras.
 
 
 ### Feature 1: Acesso à Plataforma
@@ -32,10 +34,10 @@ Este repositório contém toda a documentação relacionada ao projeto Moveat.
 
 [Relatórios Google Lighthouse](/feature1-acesso-plataforma/testes/lighthouse/) - As **melhorias** identificadas no Lighthouse são padronizadas como ``[LIG + nome da página + id]``. Os links no relatório levam diretamente para a Issue correspondente no [Board](https://github.com/orgs/Moveat-Fit/projects/4) do projeto.
 
-[Melhorias - Teste Funcional](https://github.com/orgs/Moveat-Fit/projects/4) - As **melhorias** identificadas durante os testes exploratórios são padronizadas como ``[UPGRADE + nome da página + id]``.
-[Bug Report - Teste Funcional](https://github.com/orgs/Moveat-Fit/projects/4) - Os **bugs** identificados durante os testes exploratórios são padronizados como ``[BUG + nome da página + id]``.
+[Melhorias - Teste Funcional](https://github.com/orgs/Moveat-Fit/projects/4) - As **melhorias** identificadas durante os testes exploratórios são padronizadas como ``[UPGRADE + nome da página + id]``.  
+[Bug Report - Teste Funcional](https://github.com/orgs/Moveat-Fit/projects/4) - Os **bugs** identificados durante os testes exploratórios são padronizados como ``[BUG + nome da página + id]``.  
 
-[Relatório de Testes - Entrega 1]()
+[Relatório de Testes]() - Relatório de Testes da Sprint 1 (10/03/2025)
 
 ### Feature 2: Cadastro da planilha de treino
 Em breve
