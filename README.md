@@ -44,7 +44,8 @@ Os **bugs** identificados durante os testes exploratórios são padronizados com
 
 [Relatório de Testes](/feature1-acesso-plataforma/resources/Relatório%20de%20Entrega%20-%20Sprint%201.pdf) - Relatório de Testes da Sprint 1
 
-Entrega feita em: 10/03/2025
+> [!NOTE]  
+> Entrega feita em 10/03/2025
 
 <br>
 
