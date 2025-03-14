@@ -37,7 +37,7 @@ Os **bugs** identificados durante os testes exploratórios são padronizados com
 [Casos de Teste](/feature1-acesso-plataforma/test-cases) - Presentes (e atualizados) no repositório e plataforma **Qase**.
 ![Image](https://github.com/user-attachments/assets/6e78ad7d-9e48-464a-901d-5ede066ae4d6)
 
-[Relatórios Google Lighthouse](/feature1-acesso-plataforma/testes/lighthouse/) - Os links no relatório levam diretamente para a Issue correspondente no board do projeto.
+[Relatórios Google Lighthouse](/feature1-acesso-plataforma/testes/lighthouse/) - Os links no relatório levam diretamente para a Issue correspondente no board da feature.
 
 
 [Melhorias e bugs identificados](https://github.com/orgs/Moveat-Fit/projects/4) - Veja no board da feature quais foram as melhorias e bugs encontrados durante a execução dos testes.
