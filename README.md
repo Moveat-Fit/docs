@@ -2,11 +2,6 @@
 Este repositório contém toda a documentação relacionada ao projeto Moveat.
 
 
-## Controle de Versão
-| Versão | Mudança                   | Data       | Responsável |
-|--------|---------------------------|------------|-------------|
-| 1.0.0  | Versão inicial do projeto | 15/02/2025 | Time Moveat |
-
 ## 👥 Time de desenvolvimento
 - Ana Carollyne Guimarães ***(QA)***
 - Luana Ramos de Almeida ***(Dados)***
@@ -15,6 +10,8 @@ Este repositório contém toda a documentação relacionada ao projeto Moveat.
 
 
 ## 🐞 Documentação dos Testes
+A documentação dos testes está presente dentro repositório, separada por feature.
+Todos os bugs e melhorias são abertos como **issue** no board da funcionalidade.
 
 ### Objetivo de cada documentação
 **1. Histórias de Usuário:** Definem os requisitos de um sistema e orientam o desenvolvimento de software.
@@ -25,25 +22,44 @@ Este repositório contém toda a documentação relacionada ao projeto Moveat.
 
 **4. Relatórios de Testes:** Relatório de testes da entrega de uma funcionalidade. Documenta os testes realizados e melhorias futuras.
 
+### Padronização de ID's
+As **melhorias** identificadas no Lighthouse são padronizadas como ``[LIG + nome da página + id]``.
 
-### Feature 1: Acesso à Plataforma
+As **melhorias** identificadas durante os testes funcionais são padronizadas como ``[UPGRADE + nome da página + id]``.
+
+Os **bugs** identificados durante os testes exploratórios são padronizados como ``[BUG + nome da página + id]``. 
+
+---
+## Feature 1: Acesso à Plataforma
 [Histórias de Usuário - Cadastro](/feature1-acesso-plataforma/user-stories/cadastro.md) <br>
 [Histórias de Usuário - Login](/feature1-acesso-plataforma/user-stories/login.md)
 
-[Casos de Teste](/feature1-acesso-plataforma/test-cases) - São padronizados como ``[CT + id do caso de teste]``. Os casos de teste estão tanto no repositório, como também no [Board](https://github.com/orgs/Moveat-Fit/projects/4) do projeto.
+[Casos de Teste](/feature1-acesso-plataforma/test-cases) - Presentes (e atualizados) no repositório e plataforma **Qase**.
+![Image](https://github.com/user-attachments/assets/6e78ad7d-9e48-464a-901d-5ede066ae4d6)
 
-[Relatórios Google Lighthouse](/feature1-acesso-plataforma/testes/lighthouse/) - As **melhorias** identificadas no Lighthouse são padronizadas como ``[LIG + nome da página + id]``. Os links no relatório levam diretamente para a Issue correspondente no [Board](https://github.com/orgs/Moveat-Fit/projects/4) do projeto.
+[Relatórios Google Lighthouse](/feature1-acesso-plataforma/testes/lighthouse/) - Os links no relatório levam diretamente para a Issue correspondente no board do projeto.
 
-[Melhorias - Teste Funcional](https://github.com/orgs/Moveat-Fit/projects/4) - As **melhorias** identificadas durante os testes exploratórios são padronizadas como ``[UPGRADE + nome da página + id]``.  
-[Bug Report - Teste Funcional](https://github.com/orgs/Moveat-Fit/projects/4) - Os **bugs** identificados durante os testes exploratórios são padronizados como ``[BUG + nome da página + id]``.  
 
-[Relatório de Testes]() - Relatório de Testes da Sprint 1 (10/03/2025)
+[Melhorias e bugs identificados](https://github.com/orgs/Moveat-Fit/projects/4) - Veja no board da feature quais foram as melhorias e bugs encontrados durante a execução dos testes.
 
-### Feature 2: Cadastro da planilha de treino
+[Relatório de Testes](/feature1-acesso-plataforma/resources/Relatório%20de%20Entrega%20-%20Sprint%201.pdf) - Relatório de Testes da Sprint 1
+
+Entrega feita em: 10/03/2025
+
+<br>
+
+## Feature 2: Cadastro da planilha de treino
 Em breve
 
-### Feature 3: Cadastro do plano alimentar
+
+<br>
+
+## Feature 3: Cadastro do plano alimentar
 Em breve
 
-### Feature 4: Refinamento do sistema
+
+
+<br>
+
+## Feature 4: Refinamento do sistema
 Em breve
