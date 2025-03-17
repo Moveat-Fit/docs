@@ -14,7 +14,7 @@
 <br>
 
 
-### Cenários de Teste
+## Cenários de Teste
 **Contexto:** Usuário já cadastrado na plataforma
 
 ✅ **Cenário 1: Login com credenciais válidas** 

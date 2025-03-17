@@ -26,19 +26,7 @@
 4. O sistema deve validar se o número de cadastro no CRN é válido.
 
 
-<br>
-
-## História de Usuário 3 - Cadastro Paciente/Aluno
-> **Como** um novo usuário <br>
-> **Quero** me cadastrar na plataforma <br>
-> **Para** que eu possa acessar meu plano alimentar e/ou plano de treino
-
-### Critérios de Aceitação:
-1. O usuário deve preencher os campos obrigatórios **nome, e-mail, senha, telefone e CPF** para se cadastrar.
-2. O sistema deve validar se o e-mail, CPF e telefone são únicos.
-3. O sistema deve validar se a senha tem no mínimo 8 caracteres.
-
-### Cenários de Teste
+## Cenários de Teste
 ✅ **Cenário 1: Cadastro com dados válidos** 
 
 **Dado** que o usuário acesse a tela de cadastro <br>
