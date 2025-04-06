@@ -27,7 +27,9 @@ As **melhorias** identificadas no Lighthouse são padronizadas como ``[LIG + nom
 
 As **melhorias** identificadas durante os testes funcionais são padronizadas como ``[UPGRADE + nome da página + id]``.
 
-Os **bugs** identificados durante os testes exploratórios são padronizados como ``[BUG + nome da página + id]``. 
+Os **bugs** identificados durante os testes **exploratórios** são padronizados como ``[BUG + nome da página + id]``. 
+
+Os **bugs** identificados durante os testes de **API** são padronizados como ``[BUG + API + id]``. 
 
 ---
 ## Feature 1: Acesso à Plataforma
