@@ -51,8 +51,19 @@ Os **bugs** identificados durante os testes de **API** são padronizados como ``
 
 <br>
 
-## Feature 2: Cadastro da planilha de treino
-Em breve
+## Feature 2: Dashboard do nutricionista (Cadastro e leitura de novos pacientes)
+[Histórias de Usuário - Cadastro de novos pacientes](/feature2-dashboard-nutricionista/user-stories/cadastro-paciente.md) <br>
+[Histórias de Usuário - Pesquisa de pacientes cadastrados](/feature2-dashboard-nutricionista/user-stories/pesquisa-paciente.md)
+
+[Casos de Teste](https://app.qase.io/public/report/238e75e5fce5189b20b07d1366b81d93bcb076ed) - Gerenciados na plataforma Qase.
+
+
+[Melhorias e bugs identificados](https://github.com/orgs/Moveat-Fit/projects/7) - Veja no board da feature quais foram as melhorias e bugs encontrados durante a execução dos testes.
+
+[Relatório de Testes](/feature2-dashboard-nutricionista/resources/Relatório%20de%20Entrega%20-%20Sprint%202.pdf) - Relatório de Testes da Sprint 2
+
+> [!NOTE]  
+> Entrega feita em 06/04/2025
 
 
 <br>
