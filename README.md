@@ -57,12 +57,12 @@ Em breve
 
 <br>
 
-## Feature 3: Cadastro do plano alimentar
-Em breve
+## Feature 3: EM BREVE!
+
 
 
 
 <br>
 
-## Feature 4: Refinamento do sistema
-Em breve
+## Feature 4: EM BREVE!
+
