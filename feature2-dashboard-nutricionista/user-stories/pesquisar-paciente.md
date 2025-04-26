@@ -1,4 +1,4 @@
-# 📌 Feature 2: Dashboard Nutricionista
+# 📌 Feature 2: Dashboard Nutricionista I
 **Data de entrega:** 06/04/2025
 
 ## História de Usuário 1 - Pesquisa (leitura) de pacientes 
