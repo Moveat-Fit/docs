@@ -33,11 +33,11 @@
 **Dado** que o nutricionista está editando os dados do paciente  
 **Quando** inserir um e-mail que já está em uso por outro paciente  
 **E** tentar salvar  
-**Então** o sistema deve exibir a mensagem de erro "Este e-mail já está em uso por outro paciente"  
+**Então** o sistema deve exibir a mensagem de erro "E-mail já cadastrado"  
 **E** não salvar as alterações  
 
 ❌ **Cenário 4: Tentar deixar campos obrigatórios vazios na edição**  
 **Dado** que o nutricionista está editando os dados do paciente  
-**Quando** remover um ou mais campos obrigatórios  
+**Quando** não preencher um ou mais campos obrigatórios  
 **Então** o sistema deve exibir mensagens de erro indicando os campos obrigatórios  
 **E** não salvar as alterações
