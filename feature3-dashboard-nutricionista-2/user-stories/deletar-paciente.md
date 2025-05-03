@@ -22,7 +22,7 @@
 **Então** o sistema deve exibir a mensagem "Paciente deletado com sucesso!"  
 **E** remover o paciente da lista  
 
-❌ **Cenário 2: Cancelar deleção de paciente**  
+❌ **Cenário 2: Cancelar exclusão de paciente**  
 **Dado** que o nutricionista clicou em "Deletar"  
 **Quando** clicar em "Cancelar" na mensagem de confirmação  
 **Então** o sistema deve manter o paciente na lista  
