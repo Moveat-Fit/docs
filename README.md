@@ -86,7 +86,7 @@ Os **bugs** identificados durante os testes de **API** são padronizados como ``
 
 <br>
 
-## Feature 4: Plano alimentar (CRUD) | Dashboard do usuário | Refinamento
+## Feature 4: Plano alimentar (CRUD) | Dashboard do paciente | Refinamento
 [Histórias de Usuário - Preencher]() <br>
 [Histórias de Usuário - Preencher]()
 
