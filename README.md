@@ -86,5 +86,16 @@ Os **bugs** identificados durante os testes de **API** são padronizados como ``
 
 <br>
 
-## Feature 4: EM BREVE!
+## Feature 4: Plano alimentar (CRUD) | Dashboard do usuário | Refinamento
+[Histórias de Usuário - Preencher]() <br>
+[Histórias de Usuário - Preencher]()
 
+[Casos de Teste]() - Gerenciados na plataforma Qase.
+
+
+[Melhorias e bugs identificados](https://github.com/orgs/Moveat-Fit/projects/9) - Veja no board da feature quais foram as melhorias e bugs encontrados durante a execução dos testes.
+
+[Relatório de Testes]() - Relatório de Testes da Sprint 4
+
+> [!NOTE]  
+> Entrega em 08/06/2025
