@@ -72,12 +72,12 @@ Os **bugs** identificados durante os testes de **API** são padronizados como ``
 [Histórias de Usuário - Editando dados de pacientes cadastrados](/feature3-dashboard-nutricionista-2/user-stories/editar-paciente.md) <br>
 [Histórias de Usuário - Removendo pacientes cadastrados](/feature3-dashboard-nutricionista-2/user-stories/deletar-paciente.md)
 
-[Casos de Teste]() - Gerenciados na plataforma Qase.
+[Casos de Teste](https://app.qase.io/public/report/2b6afe2a231b3f35b980c8e7f6387452d0a2ed1e) - Gerenciados na plataforma Qase.
 
 
 [Melhorias e bugs identificados](https://github.com/orgs/Moveat-Fit/projects/8) - Veja no board da feature quais foram as melhorias e bugs encontrados durante a execução dos testes.
 
-[Relatório de Testes]() - Relatório de Testes da Sprint 3
+[Relatório de Testes](/feature3-dashboard-nutricionista-2/resources/Relatório%20de%20Entrega%20-%20Sprint%203.pdf) - Relatório de Testes da Sprint 3
 
 > [!NOTE]  
 > Entrega em 04/05/2025
