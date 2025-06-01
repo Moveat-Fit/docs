@@ -20,7 +20,7 @@
 **Então** o sistema deve exibir a mensagem "Plano alimentar removido com sucesso!"  
 **E** atualizar a lista de planos do paciente  
 
-❌ **Cenário 2: Cancelar a remoção do plano**  
+✅ **Cenário 2: Cancelar a remoção do plano**  
 **Dado** que o nutricionista clicou em "Remover"  
 **Quando** cancelar a ação na janela de confirmação  
 **Então** o plano não deve ser excluído  
