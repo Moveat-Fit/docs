@@ -87,8 +87,8 @@ Os **bugs** identificados durante os testes de **API** são padronizados como ``
 <br>
 
 ## Feature 4: Plano alimentar (CRUD) | Dashboard do paciente | Refinamento
-[Histórias de Usuário - Preencher]() <br>
-[Histórias de Usuário - Preencher]()
+[Histórias de Usuário - Gerenciamento de planos alimentares (Nutricionista)](/feature4-plano-alimentar/user-stories/nutricionista/) <br>
+[Histórias de Usuário - Visualização do plano alimentar (Paciente)](/feature4-plano-alimentar/user-stories/paciente/1-visualizar-plano-alimentar.md)
 
 [Casos de Teste]() - Gerenciados na plataforma Qase.
 
