@@ -90,12 +90,16 @@ Os **bugs** identificados durante os testes de **API** são padronizados como ``
 [Histórias de Usuário - Gerenciamento de planos alimentares (Nutricionista)](/feature4-plano-alimentar/user-stories/nutricionista/) <br>
 [Histórias de Usuário - Visualização do plano alimentar (Paciente)](/feature4-plano-alimentar/user-stories/paciente/1-visualizar-plano-alimentar.md)
 
-[Casos de Teste]() - Gerenciados na plataforma Qase.
+### Casos de Teste - Gerenciados na plataforma Qase
+- [Criar plano alimentar](https://app.qase.io/public/report/af4a04b5b2967e517db8f5ddaf1e64469ad1d5d3)  
+- [Editar plano alimentar](https://app.qase.io/public/report/5e1596bf2bebdc8d1aa436b3a9b02d4e4e973f42)  
+- [Remover plano alimentar](https://app.qase.io/public/report/dc8a6b033cbb30a15ba67538cf561a67f0bd6011)  
+- [Visualizar plano alimentar](https://app.qase.io/public/report/06975f514ffae6119fad1da0a6572cff8b47c41b)  
 
 
 [Melhorias e bugs identificados](https://github.com/orgs/Moveat-Fit/projects/9) - Veja no board da feature quais foram as melhorias e bugs encontrados durante a execução dos testes.
 
-[Relatório de Testes]() - Relatório de Testes da Sprint 4
+[Relatório de Testes](/feature4-plano-alimentar/resources/Relatório%20de%20Entrega%20-%20Prova%20Oficial%20(Final).pdf) - Relatório de Testes da Sprint 4
 
 > [!NOTE]  
 > Entrega em 08/06/2025
